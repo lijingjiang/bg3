@@ -1,0 +1,6 @@
+cp ./modsettings.lsx /home/deck/.steam/steam/steamapps/compatdata/1086940/pfx/drive_c/users/steamuser/AppData/Loal/Larian\ Studios/Baldur\'s\ Gate\ 3/PlayerProfiles/Public
+
+cp  ./Carry\ Weight\ Tweaks\ -\ v2.0.0\ -\ x900.pak /home/deck/.steam/steam/steamapps/compatdata/1086940/pfx/drive_c/users/steamuser/AppData/Loal/Larian\ Studios/Baldur\'s\ Gate\ 3/Mods
+
+
+cp ./Chinese.pak /home/deck/.steam/steam/steamapps/common/Baldurs\ Gate\ 3/Launcher/runtimes/win-arm64/native/locales/Chinese.pak
